@@ -1,5 +1,7 @@
 <?php
 
+use PHPUnit\Framework\TestCase as PHPUnit_Framework_TestCase;
+
 class Foo_Bar {
     static $Bar = 'haanga';
     static $Arr = array('foo', 'Bar' => 'Foo');
