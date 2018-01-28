@@ -1,15 +1,14 @@
 {
-    "name": "crodas/Haanga",
+    "name": "geraldoandradee/Haanga",
     "description": "Template compiler for PHP, Django-style (as much as possible). Pretty efficent by avoiding to have anything at run-time.",
-    "version": "v1.0.7",
+    "version": "v1.0.8",
     "authors": [
         {
-            "name": "César D. Rodas",
-            "email": "crodas@php.net"
+            "name": "Geraldo Andrade",
+            "email": "geraldo@geraldoandrade.com"
         }
     ],
     "require": {
-        
     },
     "require-dev": {
         "phpunit/phpunit": "6.5.*"
